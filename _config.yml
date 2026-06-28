@@ -22,7 +22,7 @@ repository               : "YizhuGao/github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://yizhugao.github.io/github.io/images/profile.jpg"
+  avatar           : "https://yizhugao.github.io/github.io/images/yizhugao.png"
   name             : "Yizhu Gao"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor (Tenure-Track), Science Education and Educational Data Science, University of Georgia"
